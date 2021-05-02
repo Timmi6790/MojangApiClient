@@ -1,0 +1,10 @@
+{
+  "id": "5438ed1a48ed4086a5a77912ca2bf1ee",
+  "name": "mwmy",
+  "properties": [
+    {
+      "name": "textures",
+      "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTk0OTU0Mjg4OCwKICAicHJvZmlsZUlkIiA6ICI1NDM4ZWQxYTQ4ZWQ0MDg2YTVhNzc5MTJjYTJiZjFlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtd215IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1MmRkNmJhNGE1NjRkODVjMWYyZGQwZDQ2ZjUzZmM2NTU2YWU3MGEyZjFiYTExNDllMWI5YzMyYTg4NGQ0Y2YiCiAgICB9CiAgfQp9"
+    }
+  ]
+}
